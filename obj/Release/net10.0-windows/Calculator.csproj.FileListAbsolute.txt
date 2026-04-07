@@ -1,0 +1,14 @@
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\Calculator.exe
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\Calculator.deps.json
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\Calculator.runtimeconfig.json
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\Calculator.dll
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\Calculator.pdb
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.AssemblyInfoInputs.cache
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.AssemblyInfo.cs
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.dll
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\refint\Calculator.dll
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.pdb
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\Calculator.genruntimeconfig.cache
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\obj\Release\net10.0-windows\ref\Calculator.dll

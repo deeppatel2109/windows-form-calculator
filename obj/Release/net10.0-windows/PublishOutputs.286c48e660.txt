@@ -1,0 +1,5 @@
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\publish\Calculator.exe
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\publish\Calculator.dll
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\publish\Calculator.deps.json
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\publish\Calculator.runtimeconfig.json
+c:\Users\Dhruv\OneDrive\Desktop\Windows_Form_Calculator(.NET)\Calculator\bin\Release\net10.0-windows\publish\Calculator.pdb
